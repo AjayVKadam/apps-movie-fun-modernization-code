@@ -16,5 +16,5 @@ applications:
   services:
   - moviefun-s3
   env:
-    ALBUMS_URL: http://album-service.cfapps-02.haas-66.pez.pivotal.io/albums
-    MOVIES_URL: http://movie-service.cfapps-02.haas-66.pez.pivotal.io/movies
+    ALBUMS_URL: https://album-service-ak.apps.longs.pal.pivotal.io/albums
+    MOVIES_URL: https://movie-service-ak.apps.longs.pal.pivotal.io/movies
